@@ -1,0 +1,37 @@
+header{
+  border: solid;
+  color: red;
+  border-width: thin;
+  margin-bottom: 10px;
+}
+h1{
+  color: red;
+  background-color: yellow;
+  display: block;
+  text-align: center;
+}
+body{
+  background-color: yellow;
+  display: inline-block;
+}
+nav{
+display: inline-block;
+vertical-align:top;
+border: solid;
+border-color: red;
+border-width: thin;
+padding-right: 15px;
+text-align: left;
+font-size: 20px;
+}
+.main{
+  display: inline-block;
+}
+.abc{
+  display: inline-block;
+  height: auto;
+  width: 500px;
+}
+footer{
+  text-align: center;
+}
