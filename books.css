@@ -1,0 +1,18 @@
+
+h1 {
+  color: red;
+}
+h3 {
+  color:blue;
+  background-color: beige;
+  font-size: 20px
+}
+img {
+  height: 300px;
+  width: auto;
+  border-width: none;
+  align-items: center;
+}
+cite {
+  display: block;
+}
